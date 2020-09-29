@@ -1,0 +1,21 @@
+Here is a practice file for making changes and opening a PR.
+
+Feel free to make edits and additions to the contents, or add some new files!
+
+-------------------------
+
+To review the process, here are the steps:
+1. Fork the repo into your own account.
+2. Make changes. 
+3. Open a PR.
+4. A collaborator will review your requested changes and either make suggested edits or merge your changes in.
+
+These steps could probably use a bit more detail... hint hint ;-)
+
+------------------------
+
+Our Favorite Things
+
+1. Coding
+2. Space
+3. Colt's Chickens
