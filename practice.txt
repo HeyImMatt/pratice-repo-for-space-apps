@@ -6,9 +6,11 @@ Feel free to make edits and additions to the contents, or add some new files!
 
 To review the process, here are the steps:
 1. Fork the repo into your own account.
-2. Make changes. 
-3. Open a PR.
-4. A collaborator will review your requested changes and either make suggested edits or merge your changes in.
+2. Clone your forked copy to your local machine to make edits.
+3. Make changes.
+4. Push changes to your own repo copy.
+5. Open a PR.
+6. A collaborator will review your requested changes and either make suggested edits or merge your changes in.
 
 These steps could probably use a bit more detail... hint hint ;-)
 
@@ -19,3 +21,4 @@ Our Favorite Things
 1. Coding
 2. Space
 3. Colt's Chickens
+4. VS code
